@@ -45,7 +45,7 @@ Le portfolio répond à un cahier des charges précis, fourni sous forme de gril
 
 ## Démarrage rapide
 
-Prérequis : **Node.js 20+** et npm.
+Prérequis : **Node.js 22+** et npm.
 
 ```bash
 npm install
